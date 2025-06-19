@@ -1,6 +1,6 @@
 import sys
 
-args = sys.args[1:]
+args = sys.argv[1:]
 
 if len(args) == 0:
     print("none")
