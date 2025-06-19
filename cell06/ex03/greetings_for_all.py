@@ -4,7 +4,7 @@ def greetings(name="noble stranger"):
     else:
         print("Error! It was not a name.")
 
-        greetings('Trent')
-        greetings('Alexander')
-        greetings()
-        greetings(23)
+greetings('Trent')
+greetings('Alexander')
+greetings()
+greetings(23)
